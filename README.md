@@ -17,8 +17,8 @@ streamlit run app.py
 - Add metrics and additional views as an extension
 
 ## Submission (for students)
-- **Streamlit deployed link:** asdf
-- **GitHub repo link:** asdf
+- **Streamlit deployed link:** https://imt561lab6zavala-j2j49cf7pytieqta9zvcha.streamlit.app/
+- **GitHub repo link:** https://github.com/SBrianZ/IMT561_Lab6_Zavala
 - **Short README describing audience + tasks:** The NYC 311 Mini Dashboard is a live visualization that highlights 
 common listing complaints across NYC boroughs. Analysts, students, and other city stakeholders interested in 
 studying rental management can use this dashboard to understand the most prevalent issues affecting different 

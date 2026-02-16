@@ -19,7 +19,7 @@ from src.layouts import header_metrics, body_layout_tabs
 
 def main() -> None:
     st.set_page_config(
-        page_title="NYC 311 Mini Dashboard (Lab)",
+        page_title="S Brian's NYC 311 Mini Dashboard (Lab)",
         layout="wide",
     )
 

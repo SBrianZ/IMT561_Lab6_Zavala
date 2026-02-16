@@ -19,11 +19,11 @@ from src.layouts import header_metrics, body_layout_tabs
 
 def main() -> None:
     st.set_page_config(
-        page_title="S Brian's NYC 311 Mini Dashboard (Lab)",
+        page_title="NYC 311 Mini Dashboard (Lab)",
         layout="wide",
     )
 
-    st.title("NYC 311 Mini Dashboard")
+    st.title("Brian's NYC 311 Mini Dashboard")
     st.caption("Starter app for IMT 561 lab: layouts + filters + coordinated views.")
 
     # ✅ Data loading (cached)
